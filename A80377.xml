@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the King of Spain written to the Pope of Rome Licens'd, September 29. 1690.</title>
+            <author>Spain. Sovereign (1665-1700 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80377</idno>
+            <idno type="STC">Wing C593aA</idno>
+            <idno type="STC">ESTC R206551</idno>
+            <idno type="EEBO-CITATION">99899205</idno>
+            <idno type="PROQUEST">99899205</idno>
+            <idno type="VID">152598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152598)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2308:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the King of Spain written to the Pope of Rome Licens'd, September 29. 1690.</title>
+                  <author>Spain. Sovereign (1665-1700 : Charles II)</author>
+                  <author>Catholic Church. Pope (1689-1691 : Alexander VIII)</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin near the Oxford-Arms in Warwick-Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The King of Spain = Charles II; the Pope of Rome = Alexander VIII.</note>
+                  <note>At end: Printed after the copy of Jacob Scheltus. 1690.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  1648-1715 --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:152598:1" rendition="simple:additions"/>
+            <head>A LETTER FROM THE King of SPAIN Written to the POPE of ROME.</head>
+            <argument>
+               <p>Licens'd, <date>September 29. 1690.</date>
+               </p>
+            </argument>
+            <opener>
+               <salute>Moſt Holy Father;</salute>
+            </opener>
+            <p>WE have by the Hands of your Nuncio, the Pa<g ref="char:EOLhyphen"/>triarch of the <hi>Indies,</hi> received a Letter, where<g ref="char:EOLhyphen"/>by your Holineſs recommends to us a General Peace, and eſpecially that of <hi>Italy:</hi> And al<g ref="char:EOLhyphen"/>though we have at the Expence of Provinces, States and Do<g ref="char:EOLhyphen"/>minions, (which were ſufficient to make them great Kingdoms) many times with joy facilitated the publick Quiet; yet we can<g ref="char:EOLhyphen"/>not at this time refrain our ſelves, to tell your Holineſs, That ſeeing the King of <hi>France</hi> doth in no ways keep either Peace or Truce, and having broken his Treaties with all the Princes of <hi>Europe,</hi> they are obliged to joyn themſelves for their Natural Security, and thereupon have ſought the Neceſſary Means of War, to ſecure themſelves.</p>
+            <p>He hath made War upon the Emperour without Cauſe or Reaſon, having at the ſame time raiſed a Rebellion in <hi>Hungary</hi> againſt your Prince, and that he might uphold the ſaid Rebel<g ref="char:EOLhyphen"/>lion, hath brought the Turk into Chriſtendom, hath kindled a Fire even in <hi>Auſtria,</hi> by which the innermoſt Provinces of the Empire have been ſet on Flames. Chriſtendom trembled at the formidable Siege of <hi>Vienna,</hi> which City, though manfully de<g ref="char:EOLhyphen"/>fended and preſerved by a Miracle, yet the Damages, Devaſta<g ref="char:EOLhyphen"/>tions, Ruins and Horrors that were the Conſequences of it, are unſpeakable, and without number. An infinite number of Fa<g ref="char:EOLhyphen"/>milies carried into Slavery, which loſt at once their Souls and Liberty, can ſufficiently atteſt this. The Images have been profa<g ref="char:EOLhyphen"/>ned, and the Rivers died with the Blood of the Innocents. But to
+<pb facs="tcp:152598:2"/>paſs over in ſilence this ſorrow, leſt the Calamities that befel <hi>Chriſtendom</hi> ſhould raiſe another ſorrow in the tender Heart of your Holineſs, becauſe they were cauſed by a Prince that ſtiles himſelf, <hi>Most Chriſtian.</hi>
+            </p>
+            <p>The unjuſt War in the <hi>Palatinate,</hi> with ſuch horrible Burn<g ref="char:EOLhyphen"/>ings as was never practiſed by the moſt barbarous Nations, muſt be in freſh Memory with your Holineſs, ſeeing the miſerable ſighs of the Subjects overwhelmed by the Troops of <hi>France,</hi> are con<g ref="char:EOLhyphen"/>tinually in our ears. Your Holineſs cannot be ignorant of the violent Spoils committed on the three Electoral Princes of the Empire, <hi>viz.</hi> of <hi>Mentz, Cologne,</hi> and <hi>Trier;</hi> and even your Ho<g ref="char:EOLhyphen"/>lineſs could not deliver from this Tyranny the City and State of <hi>Avignon,</hi> it being an old Patrimony of the Holy Sea. What hath he leſt undone, againſt all reſpect, both by the Clergy in <hi>France,</hi> and his Miniſters at <hi>Rome,</hi> by Threatnings, and other Actions, to ſhew his little regard to your Holineſs; but ſeeing your Holineſs knows this too well, it is needleſs, but juſt to re<g ref="char:EOLhyphen"/>mark it.</p>
+            <p>What Prince, what State, and what Republick is there, which hath not theſe laſt Years felt the Ambition of <hi>France?</hi> Let <hi>Ge<g ref="char:EOLhyphen"/>noa</hi> ſpeak, which was almoſt conſum'd by his Bombs; let the Duke of <hi>Savoy</hi> tell it, whom he would at laſt have trampled up<g ref="char:EOLhyphen"/>on, as well as all <hi>Italy,</hi> and brought under a vile Yoak of Slave<g ref="char:EOLhyphen"/>ry; and ſeeing what hath been ſaid, cannot be denied, how can we, Moſt Holy Father, treat of an Accommodation, before the Power of him be humbled, whom neither Religion, Juſtice, Faith, nor Oath can reſtrain: By all which, as well as our Trea<g ref="char:EOLhyphen"/>ties, we find our ſelves bound in no wiſe to part from our Allies, and Confederates; and ſtanding faſt in this Reſolution, we muſt repreſent this only to your Holineſs, That the only means to obtain Peace, is to continue the War; and that <hi>Italy</hi> may be freed and brought to its former tranquility, the League muſt be compleated, and by the Care of your Holineſs, procured with all the Princes, and Chriſtendom at laſt ſecured againſt the Violences of its Common Enemy, and the Emperor afford<g ref="char:EOLhyphen"/>ed the help that your <hi>Predeceſſour</hi> of pious Memory, accorded him: We hope for this from the great Juſtice of your Holineſs, and that you will hereunto give your aſſent, upon the know<g ref="char:EOLhyphen"/>ledge of Truth, and the ſtrength of our Arguments, and pour out upon us your Holy Bleſſing. Our Lord keep, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed after the Copy of <hi>Jacob Scheltus.</hi> 1690.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <list>
+               <item>The Folly of Prieſt Craft, a Comedy.</item>
+               <item>The Secret Hiſtory of the Dutcheſs of <hi>Portſmouth,</hi> in which an Account is given of the In<g ref="char:EOLhyphen"/>treagues of the Court, during her Miniſtry, and of the Death of King <hi>Charles</hi> the Second. Both Printed for <hi>Richard Baldwin.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="colophon">
+            <p>Printed for <hi>Richard Baldwin</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
